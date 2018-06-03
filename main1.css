@@ -1,0 +1,24 @@
+button{
+    background: #26C281;
+    color:#fff;
+    font-weight:bold;
+    border:1px solid yellow;
+    cursor:pointer;
+    width:232px;
+    height:48px;
+    font-size:30px;
+    display:block;
+    margin:298px 390px;
+}
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    
+}
